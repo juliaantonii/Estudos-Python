@@ -1,0 +1,6 @@
+# Ambientes Virtuais
+.venv/
+__pycache__/
+
+# Materiais Privados (Cursos Pagos)
+Estudos Python/02-Macedo-Udemy/scripts/
