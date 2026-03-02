@@ -27,7 +27,7 @@ Os materiais e códigos contidos aqui foram desenvolvidos com base nos seguintes
 
 ## ‧₊˚ ┊ Tecnologias e Ferramentas
 * Python 3.x
-* Jupyter Notebooks (para documentação teórica)
+* Jupyter Notebooks
 * VS Code
 
 <p align="center">
