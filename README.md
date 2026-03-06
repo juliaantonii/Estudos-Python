@@ -47,12 +47,12 @@ Os exercícios abaixo são divididos em **Parte 1 (Sintaxe)** para memória musc
 * **Instrutor:** Rodrigo Macedo
 * **Plataforma:** [Udemy](https://www.udemy.com/share/10dgGh3@LoTsqMkoM5vvcc_mzgqrZ-pAKiRTVCqzsWaSql9-Hz2Xvwp-oRlPrUpH2AG_Z0wX0w==/)
 
-## ‧₊˚ ┊ 🛠️ Tecnologias e Ferramentas
+## ‧₊˚ ┊ Tecnologias e Ferramentas
 * **Linguagens:** Python 3.x, SQL
 * **Ambiente:** VS Code, Jupyter Notebooks
 
 <p align="center">
   <br>
-  𐔌՞. .՞𐦯
+  ⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹
   <br>
 </p>
