@@ -12,25 +12,25 @@ Este repositório centraliza minha jornada de aprendizado na linguagem Python, o
 
 ---
 
-## ‧₊˚ ┊ Metodologia Kumon (Daily Practice) ⭑.ᐟ
+## ‧₊˚ ┊ Metodologia Daily Practice ⭑.ᐟ
 
-Os exercícios abaixo são divididos em **Parte 1 (Sintaxe)** para memória muscular e **Parte 2 (Lógica)** para aplicação prática.
+Os exercícios são estruturados em uma trilha de dificuldade progressiva, divididos entre **P1** (Sintaxe), **P2** (Lógica) e **P3** (Robustez e Boas Práticas).
 
-### Nível 1: Fundamentos
-> Foco: Manipulação básica de dados e tipos primitivos.
-* **L01:** Variáveis e Tipagem (P1 e P2)
-* **L02:** Coleções Estáticas - Listas e Tuplas (P1 e P2)
-* **L03:** Coleções Dinâmicas - Dicionários e Sets (P1 e P2)
+### 01. Fundamentos
+> Foco: Consistência na manipulação de dados e estruturas de armazenamento.
+* **L01:** Variáveis e Tipagem — *Declaração, Casting e Type Hints.*
+* **L02:** Coleções Estáticas — *Slicing e imutabilidade em Listas/Tuplas.*
+* **L03:** Coleções Dinâmicas — *Hash maps (Dicionários) e Teoria de Conjuntos (Sets).*
 
-### Nível 2: Lógica Estrutural
-> Foco: Controle de fluxo e estruturas de repetição.
-* **L04:** Estruturas Condicionais - If/Else (P1 e P2)
-* **L05:** Laços de Repetição - For/While (P1 e P2)
+### 02. Lógica Estrutural
+> Foco: Implementação de algoritmos e controle de fluxo de execução.
+* **L04:** Estruturas Condicionais — *Match Case, Operadores Lógicos e Ternários.*
+* **L05:** Laços de Repetição — *Iteradores, List Comprehensions e Cláusula Else.*
 
-### Nível 3: Intermediários
-> Foco: Modularização, tratamento de erros e automação.
-* **L06:** Funções e Escopo (P1 e P2)
-* **L07:** Tratamento de Erros e Módulos (P1 e P2)
+### 03. Intermediários
+> Foco: Modularização, tratamento de erros e práticas de código limpo.
+* **L06:** Funções e Escopo — *Closures, Lambdas, Decoradores e Geradores.*
+* **L07:** Tratamento de Erros e Módulos — *Try/Except, Context Managers e Manipulação
 
 ---
 
@@ -45,10 +45,10 @@ Os exercícios abaixo são divididos em **Parte 1 (Sintaxe)** para memória musc
 
 ### 2. Dominando a Linguagem Python ⭑.ᐟ
 * **Instrutor:** Rodrigo Macedo
-* **Plataforma:** [Udemy](https://www.udemy.com/share/10dgGh3@LoTsqMkoM5vvcc_mzgqrZ-pAKiRTVCqzsWaSql9-Hz2Xvwp-oRlPrUpH2AG_Z0wX0w==/)
+* **Plataforma:** [Udemy - Análise de Dados com Python e Pandas](https://www.udemy.com/share/10dgGh3@LoTsqMkoM5vvcc_mzgqrZ-pAKiRTVCqzsWaSql9-Hz2Xvwp-oRlPrUpH2AG_Z0wX0w==/)
 
 ## ‧₊˚ ┊ Tecnologias e Ferramentas
-* **Linguagens:** Python 3.x, SQL
+* **Linguagens:** Python 3.12
 * **Ambiente:** VS Code, Jupyter Notebooks
 
 <p align="center">
